@@ -17,7 +17,7 @@ android {
 }
 
 dependencies {
-    compile "com.android.support:recyclerview-v7:${rootProject.supportLibsVersion}"
+    compile 'androidx.recyclerview:recyclerview:1.0.0'
 }
 
 apply from: 'gradle-maven-push.gradle'
