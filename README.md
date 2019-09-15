@@ -1,6 +1,6 @@
 (This is the same code from the upstream repo, but updated to use the androidx libraries + increase compileSdkVersion)
 
-sticky-headers-recyclerview
+sticky-headers-recyclerview-androidx
 ===========================
 
 This decorator allows you to easily create section headers for RecyclerViews using a
